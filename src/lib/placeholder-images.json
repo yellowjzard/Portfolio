@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "ai-workflow",
+      "description": "AI Workflow visualization",
+      "imageUrl": "https://images.unsplash.com/photo-1761311984112-ce2c5db45984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhaSUyMHdvcmtmbG93fGVufDB8fHx8MTc2NDc3OTk1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ai workflow"
+    },
+    {
+      "id": "city-installation",
+      "description": "Phygital city branding installation",
+      "imageUrl": "https://images.unsplash.com/photo-1707063768962-287bcacf569a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaXR5JTIwaW5zdGFsbGF0aW9ufGVufDB8fHx8MTc2NDc3OTk1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city installation"
+    },
+    {
+      "id": "graphic-design",
+      "description": "Abstract graphic design",
+      "imageUrl": "https://images.unsplash.com/photo-1558369178-6556d9c1556a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxncmFwaGljJTIwZGVzaWdufGVufDB8fHx8MTc2NTM4ODE0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "science-art",
+      "description": "Science storytelling visual",
+      "imageUrl": "https://images.unsplash.com/photo-1609149692962-9197817edde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzY2llbmNlJTIwYXJ0fGVufDB8fHx8MTc2NDc3OTk1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science art"
+    },
+    {
+      "id": "3d-scanning",
+      "description": "3D scanning for cultural heritage",
+      "imageUrl": "https://images.unsplash.com/photo-1612888077748-00e3a1bd7aad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHwzZCUyMHNjYW5uaW5nfGVufDB8fHx8MTc2NDc3OTk1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "3d scanning"
+    }
+  ]
+}

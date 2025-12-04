@@ -6,7 +6,9 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  output: 'export',
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -27,15 +29,6 @@ const nextConfig = {
         pathname: '/**',
       },
     ],
-  },
-  async rewrites() {
-    return [
-      {
-        source: '/models/:path*',
-        destination:
-          'https://cdn.jsdelivr.net/npm/face-api.js@0.22.2/weights/:path*',
-      },
-    ];
   },
 };
 
